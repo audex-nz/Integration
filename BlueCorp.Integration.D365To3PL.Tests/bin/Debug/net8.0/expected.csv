@@ -1,4 +1,0 @@
-CustomerReference,LoadId,ContainerType,ItemCode,ItemQuantity,ItemWeight,Street,City,State,PostalCode,Country
-SO123456,LOAD001,REF20,ITEM001,10,2.5,35 Fake Street,Fake City,Fake State,12345,Fake Country
-SO123456,LOAD001,REF20,ITEM002,5,1.8,35 Fake Street,Fake City,Fake State,12345,Fake Country
-SO123456,LOAD002,HC40,ITEM003,20,3,35 Fake Street,Fake City,Fake State,12345,Fake Country
