@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueCorp.Integration.D365To3PL", "BlueCorp.Integration.D365To3PL.csproj", "{D07708EE-76AE-4FDF-ADB8-2EEA7C588542}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueCorp.Integration.D365To3PL.Tests", "..\BlueCorp.Integration.D365To3PL.Tests\BlueCorp.Integration.D365To3PL.Tests.csproj", "{4BA46B36-3026-4BC4-9DBF-0D16BFAB4D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07708EE-76AE-4FDF-ADB8-2EEA7C588542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07708EE-76AE-4FDF-ADB8-2EEA7C588542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07708EE-76AE-4FDF-ADB8-2EEA7C588542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07708EE-76AE-4FDF-ADB8-2EEA7C588542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA46B36-3026-4BC4-9DBF-0D16BFAB4D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA46B36-3026-4BC4-9DBF-0D16BFAB4D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA46B36-3026-4BC4-9DBF-0D16BFAB4D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA46B36-3026-4BC4-9DBF-0D16BFAB4D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA49541B-97E4-452F-B898-70E05094DB1E}
+	EndGlobalSection
+EndGlobal

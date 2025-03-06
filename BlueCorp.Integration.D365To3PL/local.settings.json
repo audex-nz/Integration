@@ -1,0 +1,22 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "APPINSIGHTS_INSTRUMENTATIONKEY": "[Add your Application Insights Key]",
+        "ApplicationInsightsConnectionString": "[Add your Application Insights Connection String]",
+        "Sftp:Host": "sftp.3pl-provider.com",
+        "Sftp:Port": "22",
+        "Sftp:Username": "bluecorp",
+        "Sftp:IncomingDirectory": "bluecorp-incoming",
+        "Sftp:PrivateKeySecretName": "SftpPrivateKey",
+        "OAuth:Authority": "[Authority]",
+        "OAuth:ClientId": "[ClientId]",
+        "AzureWebJobsStorage": "[Storage Account]",
+        "Storage:ConnectionString": "[Storage Account]",
+        "Storage:QueueName": "dispatch-queue",
+        "Storage:QueuePoisonName": "dispatch-queue-poison",
+        "Storage:TableName": "ProcessedMessages",
+        "KeyVault:Name": "[Name]",
+        "KeyVault:Uri": "https://[Name].vault.azure.net/"
+    }
+}
